@@ -2,7 +2,7 @@
 - 👀 I’m interested in marine ecology 🌊🥽, data science, and teaching.
 - 🌱 I’m currently learning Git for version control! and Rmarkdown products.
 - 💞️ I’m looking to collaborate on teaching R, open science, and research.
-- 📫 How to reach me ...
+- 📫 How to reach me c dot kim at uq dot edu dot au.
 
 <!---
 seaCatKim/seaCatKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
