@@ -2,7 +2,7 @@
 - 👀 I’m interested in marine ecology 🌊🥽, data science, and teaching.
 - 🌱 I’m currently learning Git for version control! and Rmarkdown products.
 - 💞️ I’m looking to collaborate on teaching R, open science, and research.
-- 📫 Email me or finde me on Twitter at fishiintheC.
+- 📫 Email me or find me on Twitter at fishiintheC.
 
 <!---
 seaCatKim/seaCatKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
