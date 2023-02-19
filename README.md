@@ -25,7 +25,7 @@ Hi there! I'm a Lecturer at the Queensland University of Technology. I’m inter
 - 2022: Best Poster, Queensland University of Technology Early Career Research Symposium
 - 2022: Finalist, Queensland Women in STEM Awards
 
-## Community
+### Community
 
 - Co-Organizer, [Brisbane Geospatial Community of Practice](https://geospatial-community.netlify.app/about/)
 - Co-Organizer, [R-Ladies Brisbane](https://github.com/rladies/meetup-presentations_brisbane#welcome-to-r-ladies-brisbane) 
