@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seaCatKim
+- 👋 Hi, I’m Catherine @seaCatKim
 - 👀 I’m interested in coral reefs 🌊🥽, data science, and teaching. My research as a part of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) is on modelling coral rubble risk across the Great Barrier Reef and assessing risk of novel interventions. I am a useR and co-organize the [R Ladies Brisbane](https://github.com/rladies/meetup-presentations_brisbane#welcome-to-r-ladies-brisbane) Chapter.
 - 👩‍🏫 I teach the Geospatial Information Science course at Queensland University of Technology and am an organizer of the [Brisbane Geospatial Community of Practice](https://geospatial-community.netlify.app/about/).
 - 🌱 I’m currently learning Git for version control(!), Rmarkdown products, and quarto.
