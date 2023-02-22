@@ -14,7 +14,7 @@ Hi there! I'm a Lecturer at the Queensland University of Technology. I’m inter
 
 ### What am I up to? 
 
-- 👩‍🏫 I teach the Geospatial Information Science course at Queensland University of Technology and am an organizer of the [Brisbane Geospatial Community of Practice](https://geospatial-community.netlify.app/about/).
+- 👩‍🏫 I teach the Geospatial Information Science course at Queensland University of Technology and am an organizer of the [Geospatial Community](https://geospatial-community.netlify.app/about/) in Meanjin.
 
 - 💻 I'm leading the development of a Flood Vulnerability Index for Brisbane City following the Digital Mud Hackathon in the aftermath of the 2022 floods in Brisbane. 
 
