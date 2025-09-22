@@ -2,9 +2,7 @@
 
 <h2 align="center">Marine Ecologist & Data Scientist</h2>
 
-<img align="right" src="http://www.catherinekim.netlify.app/publication/2022_oceans/featured_hu0b0ecb1a8ad31d8e5fd9475b394bd59c_2985275_720x2500_fit_q75_h2_lanczos.webp" width="300">
-  
-📝 **Personal website:** [catherinekim.netlify.app](https://www.catherinekim.netlify.app/)
+📝 **Personal website:** [catherinekim.netlify.app](https://catherinekim.netlify.app/)
 
 🐘 **Mastodon:** [@seaCatKim@scicomm.xy](https://scicomm.xyz/@seaCatKim)
 
