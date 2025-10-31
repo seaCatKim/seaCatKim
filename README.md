@@ -2,13 +2,13 @@
 
 <h2 align="center">Marine Ecologist & Data Scientist</h2>
 
-📝 **Personal website:** [catherinekim.netlify.app](https://catherinekim.netlify.app/)
+📝 **Personal website:** [catherinejkim.com](https://catherinejkim.com)
 
 🐘 **Mastodon:** [@seaCatKim@scicomm.xy](https://scicomm.xyz/@seaCatKim)
 
 🐦 **Twitter:** [@fishiintheC](https://twitter.com/fishiinthec)
  
-Hi there! I'm a Lecturer at the Queensland University of Technology. I’m interested in coral reefs 🌊🥽, data science, and teaching. My research as a part of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) is on modelling coral rubble risk across the Great Barrier Reef and assessing risk of novel interventions. 
+Hi there! I'm a Postdoctoral Researcher at the Queensland University of Technology. I’m interested in coral reefs 🌊🥽, data science, and teaching. My research as a part of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) is on modelling coral rubble risk across the Great Barrier Reef and assessing risk of novel interventions. 
 
 ### What am I up to? 
 
